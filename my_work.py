@@ -190,6 +190,6 @@ def start_program_album():
 
 
 if __name__ == "__main__":
-    # start_program()
-    start_program_album()
+    start_program()
+    # start_program_album()
     
